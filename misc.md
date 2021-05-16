@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-permalink: /Miscellaneous/
+permalink: /misc/
 ---
 
 Some information about you!
