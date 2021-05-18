@@ -4,4 +4,5 @@ title: Research
 permalink: /research/
 ---
 
-📌 *For a clearer
+## Research Papers:
+
