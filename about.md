@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am Hengshi Yu and I am currently a PhD candidate at University of Michigan. My research interests lie broadly in deep learning, statistics, computational biology and natural language processing.  More specifically, I am interested in deep generative models, representation learning and causal inference. I am also interested in 
-research questions that arise in single-cell genomics. 
+I am Hengshi Yu. 
+
+I am currently a machinear learning researcher and PhD candidate at University of Michigan. My research interests lie broadly in deep learning, statistics, computational biology and natural language processing.  More specifically, I am interested in deep generative models, representation learning and causal inference. I am also interested in research questions that arise in single-cell genomics. 
 
 ### Talks
 
