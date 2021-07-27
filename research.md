@@ -14,3 +14,5 @@ My research interests lie broadly in deep learning, statistics, computational bi
 
 ### Talks:
 
+
+- Efficient Design and Analysis of Cluster Randomized Trials</a>, Joint Statistical Meetings, Vancouver, Canada, 2018
