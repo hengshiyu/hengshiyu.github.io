@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am Hengshi Yu. 
+I am a machine learning researcher and PhD candidate at University of Michigan. I work on computational biology and representation learning. I develop deep learning tools to solve problems in genomics and cellular biology. 
 
-I am currently a machinear learning researcher and PhD candidate at University of Michigan. 
-
-### Contact me
-
-[hengshi@umich.edu](mailto:hengshi@umich.edu)
+You can contact via the social media links below.
