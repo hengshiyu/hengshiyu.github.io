@@ -12,11 +12,14 @@ permalink: /misc/
 
 ![Park]({{ site.baseurl }}/images/park.JPG)
 --->
-Chicago
-<img src="{{ site.baseurl }}/images/chicago.jpg" width="600" height="500"/>
 
-Seattle
+<img src="{{ site.baseurl }}/images/chicago.jpg" width="600" height="500"/>
+**Chicago**  
+Postdoctoral Researcher
+
+
 <img src="{{ site.baseurl }}/images/park.JPG" width="600" height="500"/>
+**Seattle**  
 
 
 ### Links
