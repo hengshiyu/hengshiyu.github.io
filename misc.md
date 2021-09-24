@@ -6,9 +6,10 @@ permalink: /misc/
 
 
 ### Travel
-![Chicago]({{ site.baseurl }}/images/chicago.jpg | width=100)
+![Chicago]({{ site.baseurl }}/images/chicago.jpg)
 
-![Park]({{ site.baseurl }}/images/park.JPG | width=100)
+![Park]({{ site.baseurl }}/images/park.JPG)
+<img src="{{ site.baseurl }}/images/park.JPG" width="100" height="100"/>
 
 
 ### Links
