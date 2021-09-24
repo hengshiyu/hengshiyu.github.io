@@ -6,9 +6,9 @@ permalink: /misc/
 
 
 ### Travel
-![Chicago]({{ site.baseurl }}/images/chicago.jpg)
+![Chicago]({{ site.baseurl }}/images/chicago.jpg | width=100)
 
-![Park]({{ site.baseurl }}/images/park.JPG)
+![Park]({{ site.baseurl }}/images/park.JPG | width=100)
 
 
 ### Links
@@ -20,10 +20,10 @@ permalink: /misc/
 - [UCSC Genome Browser](http://genome.ucsc.edu/index.html)
 
 ### Running
-- Ann Arbor, MI, USA
-- Raleigh, NC, USA
-- Hengdian, China
-- Yangzhou, China
-- Yangzhou, China
-- Shanghai, China
+- Half Marathon, Probility Ann Arbor Marathon, Ann Arbor, MI, USA
+- Half Marathon, City of Oaks Marathon, Raleigh, NC, USA
+- Half Marathon, Hengdian Marathon, Hengdian, China
+- Half Marathon, Yangzhou Jianzhen International Marathon, Yangzhou, China
+- Half Marathon, Yangzhou Jianzhen International Marathon, Yangzhou, China
+- 10 KM Running, Shanghai International Marathon, Shanghai, China
 
